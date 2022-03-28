@@ -1,0 +1,34 @@
+.body {
+  background: #383a3d;
+  padding-top: 25vh;
+  font-family: "Nunito Sans";
+}
+
+.body form {
+  background: #fff;
+}
+
+.body .form-container {
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.body .input {
+  padding: 0;
+  height: 5vh;
+  border: none;
+  border-bottom: 2px solid #bfc1c5;
+}
+
+.body label {
+  opacity: 0.7;
+}
+
+.body .btn {
+  border-radius: 22.5px;
+}
+
+.body .password .fa {
+  color: #383a3d;
+}
+/*# sourceMappingURL=login.css.map */

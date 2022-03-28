@@ -1,0 +1,31 @@
+.body {
+    background: #383a3d;
+    padding-top: 25vh;
+    font-family: "Nunito Sans";
+    form {
+        background: #fff;
+    }
+    .form-container {
+        border-radius: 10px;
+        padding: 30px;
+    }
+    .input{
+        padding: 0;
+        height: 5vh;
+        border: none;
+        border-bottom: 2px solid #bfc1c5;
+       
+    }
+  
+    label {
+        opacity: 0.7;
+    }
+    .btn {
+        border-radius: 22.5px;
+    }
+    .password {
+        .fa {
+            color: #383a3d;
+        }
+    }
+}
