@@ -15,7 +15,7 @@ $(document).ready(function () {
     $('#submit').click(function () {
         $('#myform').submit()
         if ($('#myform').valid()) {
-            window.location = "login.html"
+            window.location = "index.html"
 
         }
     });
